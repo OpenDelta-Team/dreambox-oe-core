@@ -15,6 +15,6 @@
 	ignore = dirty
 [submodule "meta-python2"]
 	path = meta-python2
-	url = https://github.com/OpenDelta-Team//meta-python2.git
+	url = https://github.com/OpenDelta-Team/meta-python2.git
 	branch = master
 	ignore = dirty
