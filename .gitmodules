@@ -1,20 +1,20 @@
 [submodule "bitbake"]
 	path = bitbake
-	url = git://git.openembedded.org/bitbake
+	url = https://github.com/OpenDelta-Team/bitbake
 	branch = 2.4
 	ignore = dirty
 [submodule "meta-openembedded"]
 	path = meta-openembedded
-	url = git://git.openembedded.org/meta-openembedded
+	url = https://github.com/OpenDelta-Team/meta-openembedded
 	branch = mickledore
 	ignore = dirty
 [submodule "openembedded-core"]
 	path = openembedded-core
-	url = git://git.openembedded.org/openembedded-core
+	url = https://github.com/OpenDelta-Team/openembedded-core
 	branch = mickledore
 	ignore = dirty
 [submodule "meta-python2"]
 	path = meta-python2
-	url = https://gitlab.com/jack2015/meta-python2.git
+	url = https://github.com/OpenDelta-Team//meta-python2.git
 	branch = master
 	ignore = dirty
